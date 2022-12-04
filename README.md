@@ -16,12 +16,12 @@
 [![val0rant's GitHub stats](https://github-readme-stats.vercel.app/api?username=val0rant&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!--- former background gradient: bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=val0rant&count_private=true&layout=compact&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=val0rant&layout=compact&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <!--- light theme: buefy --->
 [![val0rant's GitHub stats](https://github-readme-stats.vercel.app/api?username=val0rant&count_private=true&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=val0rant&count_private=true&layout=compact&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=val0rant&layout=compact&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!---
 <div>
